@@ -4,11 +4,11 @@ Altere apenas estas variáveis
 para mudar todo o site.
 ===================================== */
 :root{
---cor-principal: #2E7D32;
---cor-secundaria: #81C784;
+--cor-principal: #e8e9f5;
+--cor-secundaria: #325c34;
 --cor-fundo: #F5F5F5;
---cor-texto: #333333;
---cor-branca: #FFFFFF;
+--cor-texto: #0c0c0c;
+--cor-branca: #070707;
 }
 
 /* =====================================
@@ -32,7 +32,7 @@ CABEÇALHO
 ===================================== */
 header{
 background-color: var(--cor-principal);
-color: white;
+color: rgb(36, 34, 34);
 text-align: center;
 padding: 40px;
 }
